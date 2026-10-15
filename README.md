@@ -6,11 +6,11 @@
 
 ## 🌐 Ссылки проекта
 
-- **Сайт:** https://YOUR-USERNAME.github.io/hello-pages/
-- **Репозиторий:** https://github.com/YOUR-USERNAME/hello-pages
-- **Deployments:** https://github.com/YOUR-USERNAME/hello-pages/deployments
-- **Environments:** https://github.com/YOUR-USERNAME/hello-pages/settings/environments
-- **GitHub Actions:** https://github.com/YOUR-USERNAME/hello-pages/actions
+- **Сайт:** https://gnikita777fool-pixel.github.io/project/
+- **Репозиторий:** https://github.com/gnikita777fool-pixel/project
+- **Deployments:** https://github.com/gnikita777fool-pixel/project/deployments
+- **Environments:** https://github.com/gnikita777fool-pixel/project/settings/environments
+- **GitHub Actions:** https://github.com/gnikita777fool-pixel/project/actions
 
 ## ✨ Возможности
 
